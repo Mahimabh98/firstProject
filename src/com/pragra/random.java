@@ -20,6 +20,7 @@ public class random {
         }
         System.out.println("thank you 1");
         System.out.println("Bye");
+        System.out.println("mahima");
     }
 }
 
